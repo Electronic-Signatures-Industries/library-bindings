@@ -1,0 +1,26 @@
+{
+  "name": "pem-rs",
+  "version": "1.0.0",
+  "description": "pem ===",
+  "main": "rollup.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^16.0.0",
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^10.0.0",
+    "@wasm-tool/rollup-plugin-rust": "^1.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcreekmore/pem-rs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcreekmore/pem-rs/issues"
+  },
+  "homepage": "https://github.com/jcreekmore/pem-rs#readme"
+}
