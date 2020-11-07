@@ -1,0 +1,13 @@
+<defines>
+BZIP2 -> 20160412
+</defines>
+
+load_on vendor
+
+<libs>
+all -> bz2
+</libs>
+
+<header:public>
+bzip2.h
+</header:public>

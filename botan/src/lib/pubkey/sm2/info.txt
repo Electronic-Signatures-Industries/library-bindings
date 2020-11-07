@@ -1,0 +1,18 @@
+<defines>
+SM2 -> 20180801
+</defines>
+
+<requires>
+asn1
+ec_group
+ecc_key
+keypair
+numbertheory
+rng
+sm3
+kdf2
+</requires>
+
+<header:public>
+sm2.h
+</header:public>

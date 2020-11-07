@@ -1,0 +1,20 @@
+<defines>
+TPM -> 20151126
+</defines>
+
+load_on vendor
+
+<libs>
+all -> tspi
+</libs>
+
+<requires>
+uuid
+hash_id
+rsa
+rng
+</requires>
+
+<header:public>
+tpm.h
+</header:public>

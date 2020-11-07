@@ -1,0 +1,12 @@
+<defines>
+HMAC_DRBG -> 20140319
+</defines>
+
+<requires>
+hmac
+stateful_rng
+</requires>
+
+<header:public>
+hmac_drbg.h
+</header:public>

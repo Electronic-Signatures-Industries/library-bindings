@@ -1,0 +1,16 @@
+<defines>
+NEWHOPE -> 20161018
+</defines>
+
+<requires>
+sha3
+shake_cipher
+
+sha2_32
+ctr
+aes
+</requires>
+
+<header:public>
+newhope.h
+</header:public>

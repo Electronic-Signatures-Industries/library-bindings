@@ -1,0 +1,11 @@
+<defines>
+PIPE_UNIXFD_IO -> 20131128
+</defines>
+
+<os_features>
+posix1
+</os_features>
+
+<header:public>
+fd_unix.h
+</header:public>

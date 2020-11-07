@@ -1,0 +1,14 @@
+<defines>
+ZLIB -> 20160412
+</defines>
+
+load_on vendor
+
+<libs>
+all!windows -> z
+windows -> zlib
+</libs>
+
+<header:public>
+zlib.h
+</header:public>

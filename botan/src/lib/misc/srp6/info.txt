@@ -1,0 +1,12 @@
+<defines>
+SRP6 -> 20161017
+</defines>
+
+<requires>
+bigint
+dl_group
+</requires>
+
+<header:public>
+srp6.h
+</header:public>

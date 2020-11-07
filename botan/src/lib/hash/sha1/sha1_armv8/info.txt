@@ -1,0 +1,12 @@
+<defines>
+SHA1_ARMV8 -> 20170117
+</defines>
+
+<isa>
+armv8crypto
+</isa>
+
+<cc>
+gcc
+clang
+</cc>

@@ -1,0 +1,12 @@
+<defines>
+UUID -> 20180930
+</defines>
+
+<requires>
+rng
+hex
+</requires>
+
+<header:public>
+uuid.h
+</header:public>

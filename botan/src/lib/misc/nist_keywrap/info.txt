@@ -1,0 +1,11 @@
+<defines>
+NIST_KEYWRAP -> 20171119
+</defines>
+
+<requires>
+block
+</requires>
+
+<header:public>
+nist_keywrap.h
+</header:public>

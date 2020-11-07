@@ -1,0 +1,14 @@
+<defines>
+DL_GROUP -> 20131128
+</defines>
+
+<requires>
+asn1
+bigint
+numbertheory
+pem
+</requires>
+
+<header:public>
+dl_group.h
+</header:public>

@@ -1,0 +1,13 @@
+<header:public>
+buf_comp.h
+secmem.h
+scan_name.h
+sym_algo.h
+symkey.h
+</header:public>
+
+<requires>
+hex
+rng
+utils
+</requires>

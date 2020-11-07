@@ -1,0 +1,12 @@
+<defines>
+RFC6979_GENERATOR -> 20140321
+</defines>
+
+<requires>
+bigint
+hmac_drbg
+</requires>
+
+<header:internal>
+rfc6979.h
+</header:internal>

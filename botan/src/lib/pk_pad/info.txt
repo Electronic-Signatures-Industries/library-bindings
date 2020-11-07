@@ -1,0 +1,9 @@
+<defines>
+PK_PADDING -> 20131128
+</defines>
+
+<requires>
+asn1
+rng
+pubkey
+</requires>

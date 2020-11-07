@@ -1,0 +1,12 @@
+<defines>
+CERTSTOR_SQLITE3 -> 20160818
+</defines>
+
+<requires>
+certstor_sql
+sqlite3
+</requires>
+
+<header:public>
+certstor_sqlite.h
+</header:public>

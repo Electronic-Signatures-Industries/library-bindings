@@ -1,0 +1,14 @@
+<defines>
+RSA -> 20160730
+</defines>
+
+<requires>
+keypair
+numbertheory
+emsa_pssr
+sha2_32
+</requires>
+
+<header:public>
+rsa.h
+</header:public>

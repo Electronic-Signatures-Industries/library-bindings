@@ -1,0 +1,12 @@
+<defines>
+AES_ARMV8 -> 20170903
+</defines>
+
+<isa>
+armv8crypto
+</isa>
+
+<cc>
+gcc
+clang
+</cc>

@@ -1,0 +1,22 @@
+<defines>
+NUMBERTHEORY -> 20131128
+</defines>
+
+<header:public>
+numthry.h
+reducer.h
+</header:public>
+
+<header:internal>
+curve_nistp.h
+monty.h
+monty_exp.h
+pow_mod.h
+primality.h
+</header:internal>
+
+<requires>
+bigint
+hash
+rng
+</requires>
